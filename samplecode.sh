@@ -1,2 +1,3 @@
 echo "Welcome to the demo project"
 here added a new line
+merge
